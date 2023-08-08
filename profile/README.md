@@ -1,6 +1,5 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD900&size=35&center=true&vCenter=true&width=1000&lines=Hello,+everyone!+👋;Welcome+to+AJUMP+Corporation!)](https://git.io/typing-svg)
   ![AJUMP Banner](https://github.com/AJUMP-Corp/.github/blob/main/ajump_banner.png)
 
 </div>
