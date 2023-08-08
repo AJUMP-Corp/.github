@@ -15,11 +15,11 @@
 AJUMP is a gaming company founded by five friends: "A"braão, "J"oão, "U"lisses, "M"urilo and "P"edro. Our slogan is “Turning a step into AJUMP”. We are a team of passionate individuals who share a love for gaming and are dedicated to creating games that are not only fun to play but also push the boundaries of what is possible in the gaming industry.
 
 ## 👨‍💻 Our Developers
-<a href="https://github.com/abraaolucassb" target="_blank"><img width="64px" height="64px" src="https://avatars.githubusercontent.com/u/103671057?v=4" alt="Abraão Lucas"></a>
-<a href="https://github.com/JGabrielJ" target="_blank"><img width="64px" height="64px" src="https://avatars.githubusercontent.com/u/95143389?s=400&u=ab6787c3407ecf0015bab749aabe5109c392cac4&v=4" alt="João Gabriel"></a>
-<a href="https://github.com/MuriloPensativo" target="_blank"><img width="64px" height="64px" src="https://avatars.githubusercontent.com/u/106769022?v=4" alt="Murilo Rodrigues"></a>
-<a href="https://github.com/Cauan87" target="_blank"><img width="64px" height="64px" src="https://avatars.githubusercontent.com/u/92456337?v=4" alt="Pedro Cauan"></a>
-<a href="https://github.com/Ulisses-Eufrauzino" target="_blank"><img width="64px" height="64px" src="https://avatars.githubusercontent.com/u/89611699?v=4" alt="Ulisses Eufrauzino"></a>
+<a href="https://github.com/abraaolucassb" target="_blank"><img width="64px" height="64px" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/103671057?v=4&mask=circle" alt="Abraão Lucas"></a> &nbsp;
+<a href="https://github.com/JGabrielJ" target="_blank"><img width="64px" height="64px" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/95143389?s=400&u=ab6787c3407ecf0015bab749aabe5109c392cac4&v=4&mask=circle" alt="João Gabriel"></a> &nbsp;
+<a href="https://github.com/MuriloPensativo" target="_blank"><img width="64px" height="64px" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/106769022?v=4&mask=circle" alt="Murilo Rodrigues"></a> &nbsp;
+<a href="https://github.com/Cauan87" target="_blank"><img width="64px" height="64px" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/92456337?v=4&mask=circle" alt="Pedro Cauan"></a> &nbsp;
+<a href="https://github.com/Ulisses-Eufrauzino" target="_blank"><img width="64px" height="64px" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/89611699?v=4&mask=circle" alt="Ulisses Eufrauzino"></a> &nbsp;
 
 ## 🎯 Our Mission
 Our mission is to create fun and engaging games that provide players with a unique and unforgettable experience. We strive to always be advancing, “taking leaps” towards growth and transforming the player’s experience into an AJUMP. We are constantly exploring new technologies and techniques to bring our players the best possible gaming experience.
