@@ -1,1 +1,1 @@
-# Hi, there! 👋
+![AJUMP Banner](../design_banner.png)
