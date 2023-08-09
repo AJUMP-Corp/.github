@@ -15,13 +15,13 @@
 AJUMP is a gaming company founded by five friends: "A"braão, "J"oão, "U"lisses, "M"urilo and "P"edro. Our slogan is “Turning a step into AJUMP”. We are a team of passionate individuals who share a love for gaming and are dedicated to creating games that are not only fun to play but also push the boundaries of what is possible in the gaming industry.
 
 ## 🎯 Our Mission
-Our mission is to create fun and engaging games that provide players with a unique and unforgettable experience. We strive to always be advancing, “taking leaps” towards growth and transforming the player’s experience into an AJUMP. We are constantly exploring new technologies and techniques to bring our players the best possible gaming experience.
+Our mission is to create fun and engaging games that provide players with a unique and unforgettable experience. We strive to always be advancing, taking leaps towards growth and transforming the player’s experience into AJUMP. We are constantly exploring new technologies and techniques to bring our players the best possible gaming experience.
 
 ## 💡 Our Vision
-Our vision is to be a leading company in the gaming market, always seeking new ways to entertain and surprise our players. We aim to continuously “take leaps” towards innovation and excellence. We want to be known for our creativity, our ability to push the boundaries of what is possible in the gaming industry, and our commitment to providing our players with an unforgettable gaming experience.
+Our vision is to be a leading company in the gaming market, always seeking new ways to entertain and surprise our players. We aim to continuously make the player’s experience jump to another level towards innovation and excellence. We want to be known for our creativity, our ability to push the boundaries of what is possible in the gaming industry, and our commitment to providing our players with an unforgettable gaming experience.
 
 ## 🗿 Our Values
-Our values include creativity, innovation, teamwork and passion for what we do. We believe in always “taking leaps” towards progress and growth, both as a company and as individuals. We value collaboration and believe that by working together, we can achieve great things. At AJUMP, we are committed to creating a positive and inclusive work environment where everyone feels valued and supported.
+Our values include creativity, innovation, teamwork and passion for what we do. We believe in always taking leaps towards progress and growth, both as a company and as individuals. We value collaboration and believe that by working together, we can achieve great things. At AJUMP, we are committed to creating a positive and inclusive work environment where everyone feels valued and supported.
 
 ## 👨‍💻 Our Developers
 <table>
