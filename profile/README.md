@@ -29,7 +29,6 @@ Our values include creativity, innovation, teamwork and passion for what we do. 
     <td align="center"><a href="https://github.com/JGabrielJ" target="_blank"><img width="64px" height="64px" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/95143389?s=400&u=ab6787c3407ecf0015bab749aabe5109c392cac4&v=4&mask=circle" alt="João Gabriel"><br><b>Programmer 1</b></a></td>
     <td align="center"><a href="https://github.com/Cauan87" target="_blank"><img width="64px" height="64px" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/92456337?v=4&mask=circle" alt="Pedro Cauan"><br><b>Programmer 2</b></a></td>
     <td align="center"><a href="https://github.com/MuriloPensativo" target="_blank"><img width="64px" height="64px" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/106769022?v=4&mask=circle" alt="Murilo Rodrigues"><br><b>Graphic Designer</b></a></td>
-    <td align="center"><a href="https://github.com/Ulisses-Eufrauzino" target="_blank"><img width="64px" height="64px" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/89611699?v=4&mask=circle" alt="Ulisses Eufrauzino"><br><b>Structural Designer</b></a></td>
     <td align="center"><a href="https://github.com/abraaolucassb" target="_blank"><img width="64px" height="64px" src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/103671057?v=4&mask=circle" alt="Abraão Lucas"><br><b>Sound Engineer</b></a></td>
   </tr>
 </table>
