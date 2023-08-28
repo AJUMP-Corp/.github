@@ -6,7 +6,6 @@
   <a href="#-our-mission">Mission</a> •
   <a href="#-our-vision">Vision</a> •
   <a href="#-our-values">Values</a> •
-  <a href="#-our-programmers">Developers</a> •
   <a href="#-our-projects">Projects</a>
 
 </div>
@@ -34,3 +33,4 @@ Our values include creativity, innovation, teamwork and passion for what we do. 
 
 ## 🛠 Our Projects
 - [UxO Beta: A Game for Challengers and Samurais](https://github.com/AJUMP-Corp/UxO-Beta)
+> Ler em [Português](https://github.com/AJUMP-Corp/.github/blob/main/languages/README_pt-BR.md).
