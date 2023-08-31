@@ -10,7 +10,7 @@
 
 </div>
 
-## 👥 Who we are?
+## 👥 Who We Are?
 AJUMP is a gaming company founded by five friends: "A"braão, "J"oão, "U"lisses, "M"urilo and "P"edro. Our slogan is “Turning a step into AJUMP”. We are a team of passionate individuals who share a love for gaming and are dedicated to creating games that are not only fun to play but also push the boundaries of what is possible in the gaming industry.
 <table align="center">
   <tr>
@@ -33,4 +33,5 @@ Our values include creativity, innovation, teamwork and passion for what we do. 
 
 ## 🛠 Our Projects
 - [UxO Beta: A Game for Challengers and Samurais](https://github.com/AJUMP-Corp/UxO-Beta)
-> Ler em [Português](https://github.com/AJUMP-Corp/.github/blob/main/languages/README_pt-BR.md).
+> Ler em [Português](https://github.com/AJUMP-Corp/.github/blob/main/languages/README_pt-BR.md) /
+> Leer en [Español](https://github.com/AJUMP-Corp/.github/blob/main/languages/README_sp.md).
