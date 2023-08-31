@@ -34,4 +34,5 @@ Nuestros valores incluyen la creatividad, la innovación, el trabajo en equipo y
 ## 🛠 Nuestros Proyectos
 - [UxO Beta: Un Juego para Retadores y Samuráis](https://github.com/AJUMP-Corp/UxO-Beta)
 > Ler em [Português](https://github.com/AJUMP-Corp/.github/blob/main/languages/README_pt-BR.md) /
-> Read in [English](https://github.com/AJUMP-Corp/.github/blob/main/profile/README.md).
+> Read in [English](https://github.com/AJUMP-Corp/.github/blob/main/profile/README.md) /
+> [日本語](https://github.com/AJUMP-Corp/.github/blob/main/languages/README_jp.md)で読んでください。
