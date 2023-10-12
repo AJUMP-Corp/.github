@@ -8,8 +8,8 @@ AJUMP is a gaming company founded by five friends: "A"braão, "J"oão, "U"lisses
   <tr>
     <td align="center"><a href="https://github.com/JGabrielJ" target="_blank"><img width="128px" height="128px" src="https://avatars.githubusercontent.com/u/95143389?v=4" alt="João Gabriel"><br><b>João Gabriel<br>(Programmer)</b></a></td>
     <td align="center"><a href="https://github.com/Cauan87" target="_blank"><img width="128px" height="128px" src="https://avatars.githubusercontent.com/u/92456337?v=4" alt="Pedro Cauan"><br><b>Pedro Cauan<br>(Programmer)</b></a></td>
-    <td align="center"><a href="https://github.com/MuriloPensativo" target="_blank"><img width="128px" height="128px" src="https://avatars.githubusercontent.com/u/106769022?v=4" alt="Murilo Rodrigues"><br><b>Murilo Rodrigues<br>(Character Designer)</b></a></td>
-    <td align="center"><a href="https://github.com/Ulisses-Eufrauzino" target="_blank"><img width="128px" height="128px" src="https://avatars.githubusercontent.com/u/89611699?v=4" alt="Ulisses dos Santos"><br><b>Ulisses dos Santos<br>(Map Designer)</b></a></td>
+    <td align="center"><a href="https://github.com/MuriloPensativo" target="_blank"><img width="128px" height="128px" src="https://avatars.githubusercontent.com/u/106769022?v=4" alt="Murilo Rodrigues"><br><b>Murilo Rodrigues<br>(Programmer)</b></a></td>
+    <td align="center"><a href="https://github.com/Ulisses-Eufrauzino" target="_blank"><img width="128px" height="128px" src="https://avatars.githubusercontent.com/u/89611699?v=4" alt="Ulisses dos Santos"><br><b>Ulisses dos Santos<br>(Graphic Designer)</b></a></td>
     <td align="center"><a href="https://github.com/abraaolucassb" target="_blank"><img width="128px" height="128px" src="https://avatars.githubusercontent.com/u/103671057?v=4" alt="Abraão Lucas"><br><b>Abraão Lucas<br>(Sound Engineer)</b></a></td>
   </tr>
 </table>
